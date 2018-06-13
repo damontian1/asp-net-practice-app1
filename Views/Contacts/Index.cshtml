@@ -1,0 +1,7 @@
+@using asp_practice_app.Models;
+@model IEnumerable<Contact>
+
+<p>index page</p>
+@foreach(var contact in Model) {
+  <p>Id: @contact.ContactId | Name: @contact.Name</p>
+}
