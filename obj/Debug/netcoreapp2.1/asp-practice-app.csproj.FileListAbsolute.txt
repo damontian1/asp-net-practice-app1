@@ -43,3 +43,4 @@
 /Users/Damon/Documents/Coding/practice/asp-practice-app/obj/Debug/netcoreapp2.1/Razor/Views/Employee/Details.g.cshtml.cs
 /Users/Damon/Documents/Coding/practice/asp-practice-app/obj/Debug/netcoreapp2.1/Razor/Views/Employee/Edit.g.cshtml.cs
 /Users/Damon/Documents/Coding/practice/asp-practice-app/obj/Debug/netcoreapp2.1/Razor/Views/Employee/Index.g.cshtml.cs
+/Users/Damon/Documents/Coding/practice/asp-practice-app/obj/Debug/netcoreapp2.1/Razor/Views/Employee/_Edit.g.cshtml.cs
